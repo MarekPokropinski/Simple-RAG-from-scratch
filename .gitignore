@@ -1,0 +1,5 @@
+vs_data/*
+data/*
+**/__pycache__
+rag.db
+.rag.db.lock

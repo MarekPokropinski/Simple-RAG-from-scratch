@@ -1,0 +1,6 @@
+{
+    "url": "http://192.168.1.7:1234/v1/",
+    "api_key": "lm-studio",
+    "embeddings_model": "lmstudio-community/Meta-Llama-3.1-8B-Instruct-GGUF",
+    "chat_model": "nomic-ai/nomic-embed-text-v1.5-GGUF"
+}

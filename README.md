@@ -3,6 +3,8 @@
 This repository is a toy project with simple Retrieval-Augmented Generation system. 
 System was build with pre-trained LLM's from LM Studio. For embeddings `nomic-ai/nomic-embed-text-v1.5-GGUF` model was used and for response generation: `Meta-Llama-3.1-8B-Instruct-GGUF`.
 
+In notebook `langchain rag` similar application is implemented but using Langchain.
+
 It is important to note that this is just simple solution for a model to have access to recent/private data. This model is still prone to hallucination and can respond with false and misleading statements.
 
 ## How to use
